@@ -11,8 +11,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>consumer</module>
-        <module>producer</module>
+        <module>jmsdemo-consumer</module>
+        <module>jmsdemo-producer</module>
     </modules>
 
 
