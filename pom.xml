@@ -6,7 +6,14 @@
 
     <groupId>com.tenaciousd</groupId>
     <artifactId>jmsdemo</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.1.0</version>
+
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>jmsdemo-consumer</module>
+        <module>jmsdemo-producer</module>
+    </modules>
 
 
     <dependencies>
