@@ -5,6 +5,9 @@ import org.apache.activemq.ActiveMQConnectionFactory;
 
 import javax.jms.*;
 
+/**
+ * Producer main.
+ */
 public class Main {
 
   public static void main(String[] args) throws InterruptedException, JMSException {
